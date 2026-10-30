@@ -1,0 +1,13 @@
+﻿CSC 6410 Evidence Checklist
+
+Capture genuine screenshots for the following items:
+
+[ ] 1. Lab environment check showing the installed tools and results.
+[ ] 2. First traceroute run showing the target and date/time.
+[ ] 3. Second traceroute run showing the target and date/time.
+[ ] 4. Python script execution showing the observed ASN path.
+[ ] 5. RIPEstat response showing an ASN/network mapping.
+[ ] 6. Troubleshooting evidence showing a real issue, the change made, and the resulting output.
+
+Use the student's own environment and actual results.
+Do not fabricate screenshots or claim unperformed tests succeeded.
